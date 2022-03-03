@@ -1,5 +1,5 @@
-num=int(input("enter number"))
-if(num%2)==0:
-    print("number is even")
-else:
-    print("number is odd")
+a=2
+while a<=50:
+    if a%2 !=0:
+        print(a)
+        a=a+1
